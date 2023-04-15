@@ -2086,8 +2086,8 @@ button,
     margin-bottom: 0; }
   #header .logo {
     border-bottom: 0;
-    color: inherit;
-    font-family: "Roboto Slab", serif;
+    color: #0000A5;
+    font-family: "Comic Sans MS";
     font-size: 1.125em; }
   #header .icons {
     text-align: right; }
