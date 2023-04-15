@@ -2086,8 +2086,8 @@ button,
     margin-bottom: 0; }
   #header .logo {
     border-bottom: 0;
-    color: inherit;
-    font-family: "Roboto slab", serif;
+    color: #7f888f;
+    font-family: "Open sans", sans-serif;
     font-size: 1.125em; }
   #header .icons {
     text-align: right; }
