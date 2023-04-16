@@ -22,7 +22,9 @@ html,body{
     background-color: cyan;
     font: "Comic sans ms" cursive;
     font-size: 4em;
-  button{
+  }
+  
+.neon-button {
   position: relative;
   height: 60px;
   width: 200px;
