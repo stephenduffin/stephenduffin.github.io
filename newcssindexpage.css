@@ -1,5 +1,5 @@
 
-/*
+
 *{
   margin: 0;
   padding: 0;
@@ -14,7 +14,7 @@ html,body{
   place-items: center;
   background: #000;
   overflow: hidden;
-*/
+
 
 .neon-button {
     box-shadow: 0 0 50px #FF00FF,
