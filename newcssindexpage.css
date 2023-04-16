@@ -59,4 +59,20 @@ html, body{
         0 0 50px #FF00FF, 0 0 50px #FF00FF,
         0 0 50px #FF00FF, 0 0 50px #FF00FF;
 }
+
+ a:link {
+      text-decoration: none;
+}
+
+a:visited {
+      text-decoration: none;
+}
+
+a:hover {
+      text-decoration: none;
+}
+
+a:active {
+      text-decoration: none;
+}
       
