@@ -14,6 +14,10 @@ html, body{
   place-items: center;
 }
  
+.content {
+  max-width: 500px;
+  margin: auto;
+}
   
 
 .neon-button {
