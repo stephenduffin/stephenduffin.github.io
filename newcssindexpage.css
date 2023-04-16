@@ -1,3 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Comic sans ms', sans-serif;
+}
+
+html,body{
+  display: grid;
+  height: 100%;
+  place-items: center;
+  background: #000;
+  overflow: hidden;
+
 
 .neon-button {
     box-shadow: 0 0 5px cyan,
