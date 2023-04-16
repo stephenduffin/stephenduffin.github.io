@@ -22,7 +22,8 @@ html, body{
 
 .neon-button {
     display: inline-block;
-    padding: 20px
+    padding: 20px;
+    width: 100px;
     box-shadow: 0 0 50px #FF00FF,
         0 0 50px #FF00FF;
     justify-content: center; 
