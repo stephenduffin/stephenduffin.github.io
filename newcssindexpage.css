@@ -21,8 +21,10 @@ html, body{
     justify-content: center; 
     text-align:center; 
     vertical-align:middle"
+      /*
   
     background-color: #FF00FF;
+      */
     font: 'Helvetica', sans-serif;
     font-size: 4em;
   }
