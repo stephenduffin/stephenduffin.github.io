@@ -24,11 +24,11 @@ html, body{
     display: inline-block;
     padding: 20px;
     width: 200px;
-    box-shadow: 0 0 50px #f56a6a,
-        0 0 50px #f56a6a;
+    box-shadow: 0 0 50px #FF00FF,
+        0 0 50px #FF00FF;
     justify-content: center; 
     text-align: center; 
-    background-color: #f56a6a;
+    background-color: #FF00FF;
     font: 'Monospace', sans-serif;
     font-size: 40px;
     border-radius: 20px;
@@ -55,8 +55,8 @@ html, body{
 */ 
 
 .neon-button: hover { 
-    box-shadow: 0 0 50px #f56a6a,
-        0 0 50px #f56a6a, 0 0 50px #f56a6a,
-        0 0 50px #f56a6a, 0 0 50px #f56a6a;
+    box-shadow: 0 0 50px #FF00FF,
+        0 0 50px #FF00FF, 0 0 50px #FF00FF,
+        0 0 50px #FF00FF, 0 0 50px #FF00FF;
 }
       
