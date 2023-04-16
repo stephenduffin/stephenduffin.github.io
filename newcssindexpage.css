@@ -24,11 +24,9 @@ html, body{
     box-shadow: 0 0 50px #FF00FF,
         0 0 50px #FF00FF;
     justify-content: center; 
-    text-align:center; 
-    vertical-align:middle"
-        
+    text-align: center; 
+    vertical-align: middle";
     background-color: #FF00FF;
-      
     font: 'Monospace', sans-serif;
     font-size: 4em;
   }
