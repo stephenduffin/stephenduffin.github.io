@@ -2,6 +2,8 @@
 .neon-button {
     box-shadow: 0 0 5px cyan,
         0 0 25px cyan;
+    text-align: justify;
+    background-color: cyan;
 }
 
 neon-button: hover { 
