@@ -24,8 +24,8 @@ html, body{
     display: inline-block;
     padding: 20px;
     width: 100px;
-    box-shadow: 0 0 50px #FF00FF,
-        0 0 50px #FF00FF;
+    box-shadow: 50px 50px 50px #FF00FF,
+        50px 50px 50px #FF00FF;
     justify-content: center; 
     text-align: center; 
     background-color: #FF00FF;
