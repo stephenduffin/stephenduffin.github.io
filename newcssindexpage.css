@@ -2,10 +2,12 @@
 .neon-button {
     box-shadow: 0 0 5px cyan,
         0 0 25px cyan;
+    justify-content: center; 
     text-align: justify;
+    align-items: center;
     background-color: cyan;
     font: "Comic sans ms" cursive;
-    font-size: 2em;
+    font-size: 4em;
     
 }
 
