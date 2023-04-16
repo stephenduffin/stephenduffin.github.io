@@ -52,10 +52,11 @@ html, body{
   letter-spacing: 2px;
         
 }
+*/ 
 
 .neon-button: hover { 
     box-shadow: 0 0 50px #FF00FF,
         0 0 50px #FF00FF, 0 0 50px #FF00FF,
         0 0 50px #FF00FF, 0 0 50px #FF00FF;
 }
-    */   
+      
