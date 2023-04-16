@@ -19,9 +19,11 @@ html,body{
 .neon-button {
     box-shadow: 0 0 50px #FF00FF,
         0 0 50px #FF00FF;
+  /*
     justify-content: center; 
     text-align: justify;
     align-items: center;
+  */
     background-color: #FF00FF;
     font: 'Helvetica', sans-serif;
     font-size: 4em;
