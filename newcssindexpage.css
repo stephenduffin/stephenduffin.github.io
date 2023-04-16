@@ -14,12 +14,12 @@ html,body{
 
 
 .neon-button {
-    box-shadow: 0 0 5px cyan,
-        0 0 25px cyan;
+    box-shadow: 0 0 50px #FF00FF,
+        0 0 50px #FF00FF;
     justify-content: center; 
     text-align: justify;
     align-items: center;
-    background-color: cyan;
+    background-color: #FF00FF;
     font: "Comic sans ms" cursive;
     font-size: 4em;
   }
@@ -41,8 +41,8 @@ html,body{
 }
 
 .neon-button: hover { 
-    box-shadow: 0 0 5px cyan,
-        0 0 25px cyan, 0 0 50px cyan,
-        0 0 100px cyan, 0 0 200px cyan;
+    box-shadow: 0 0 50px #FF00FF,
+        0 0 50px #FF00FF, 0 0 50px #FF00FF,
+        0 0 50px #FF00FF, 0 0 50px #FF00FF;
 }
        
