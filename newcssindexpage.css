@@ -14,7 +14,7 @@ body {
     display: grid;
     place-items: center;
     background: var(--clr-bg);
-    font-family: "Balsamiq Sans", cursive;
+    font-family: "Comic sans ms", cursive;
     color: var(--clr-neon);
     padding-right: 10rem;
 }
