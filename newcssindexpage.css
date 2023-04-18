@@ -21,6 +21,8 @@ html, body{
   
 
 .neon-button {
+    text-color: #FFFDD0;
+    fomt: "Comic MS sans", cursive;
     display: inline-block;
     padding: 20px;
     width: 200px;
