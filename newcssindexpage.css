@@ -25,10 +25,10 @@ html, body{
     padding: 20px;
     width: 200px;
     box-shadow: 0 0 50px #FFFDD0,
-        0 0 50px #FFFDDO;
+        0 0 50px #FFFDD0;
     justify-content: center; 
     text-align: center; 
-    background-color: #FFFDDO;
+    background-color: #FFFDD0;
     font: 'Monospace', sans-serif;
     font-size: 40px;
     border-radius: 20px;
@@ -56,8 +56,8 @@ html, body{
 
 .neon-button: hover { 
     box-shadow: 0 0 50px #FFFDD0,
-        0 0 50px #FFFDDO, 0 0 50px #FFFDDO,
-        0 0 50px #FFFDDO, 0 0 50px #FFFDDO;
+        0 0 50px #FFFDD0, 0 0 50px #FFFDD0,
+        0 0 50px #FFFDD0, 0 0 50px #FFFDD0;
 }
 
  a:link {
