@@ -22,7 +22,7 @@ html, body{
 
 .neon-button {
     text-color: #FFFDD0;
-    fomt: "Comic MS sans", cursive;
+    font-family: "Comic MS sans", cursive;
     display: inline-block;
     padding: 20px;
     width: 200px;
@@ -31,7 +31,6 @@ html, body{
     justify-content: center; 
     text-align: center; 
     background-color: #FFFDD0;
-    font: 'Monospace', sans-serif;
     font-size: 40px;
     border-radius: 20px;
     border: 3px;
