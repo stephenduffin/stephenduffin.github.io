@@ -7,7 +7,9 @@
   font-family:'Monospace', sans-serif;
 }
 */
-body {background-image:="salmon and cream stripe2.jpg"}
+body {background-image: url("salmon and cream stripe2.jpg");
+}
+
 
 html, body{
   display: grid;
